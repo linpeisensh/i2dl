@@ -1,5 +1,6 @@
 # i2dl
 tum i2dl homework:
+
   exercise_1:
     softmax_loss
     two_layer_net
