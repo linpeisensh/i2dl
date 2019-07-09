@@ -1,0 +1,18 @@
+# i2dl
+tum i2dl homework:
+  exercise_1:
+    softmax_loss
+    two_layer_net
+
+  exercise_2:
+    layer:
+      affine_forward, affine_backward
+      relu_forward, relu_backward
+      batch normalization
+      dropout
+      
+  exercise_3:
+    convolution neural network(cnn)
+    segmentation
+    facial_keypoint
+    recurrent_neural_networks
