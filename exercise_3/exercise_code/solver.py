@@ -123,7 +123,7 @@ class Solver(object):
             self.val_acc_history.append(val_acc)
             self.val_loss_history.append(val_loss)
             if log_nth:
-                print('[Epoch %d/%d] Train acc/loss: %.3f/%.3f' % 
+                print('[Epoch %d/%d] VAL acc/loss: %.3f/%.3f' % 
                           (epoch + 1,
                            num_epochs,
                            val_acc,
