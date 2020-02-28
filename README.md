@@ -18,13 +18,9 @@ tum i2dl homework:
       batch normalization
       
       dropout
-      
-  exercise_3:
-  
-    convolution neural network(cnn)
+   
+Projects:
+  Segmentation(cnn)
+  Resnet论文复现
+  chinamoney爬虫
     
-    segmentation
-    
-    facial_keypoint
-    
-    recurrent_neural_networks
