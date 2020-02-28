@@ -1,4 +1,4 @@
-这是一个针对http://www.chinamoney.com.cn/chinese/的爬虫文件。
+这是一个针对http://www.chinamoney.com.cn/chinese/ 的爬虫文件。
 配套文件：'companyname.txt'文件，内容为批量下载公司名称，一行一家公司（参照我给的样例）。
 
 功能：
