@@ -19,8 +19,11 @@ tum i2dl homework:
       
       dropout
    
-Projects:
-  Segmentation(cnn)
-  Resnet论文复现
-  chinamoney爬虫
+  projects:
+
+    Segmentation(cnn)
+  
+    Resnet论文复现
+  
+    chinamoney爬虫
     
