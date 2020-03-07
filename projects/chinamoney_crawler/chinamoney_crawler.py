@@ -19,11 +19,8 @@ def isValidPDF_pathfile(pathfile):
     try:
         reader = PdfFileReader(pathfile)
 
-    except:
+    except (EOFError, FileNotFoundError):
         bValid = False
-        if reader != None:
-            if reader.isEncrypted:
-                bValid = True
 
     return bValid
 
